@@ -1,6 +1,6 @@
 {
-    "name": "ghost-starter-theme",
-    "description": "A starter theme for Ghost theme development",
+    "name": "vamos-theme",
+    "description": "A theme for VAMOS based on a Ghost starter theme",
     "demo": "https://starter.ghost.io",
     "version": "2.0.1",
     "engines": {
@@ -18,7 +18,7 @@
         "pretest": "npm run build"
     },
     "author": {
-        "name": "Ghost Foundation",
+        "name": "Defendini",
         "email": "hello@ghost.org",
         "url": "https://ghost.org"
     },
